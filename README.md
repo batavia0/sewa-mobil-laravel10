@@ -5,7 +5,7 @@
 Clone Projek
 
 ```bash
-  git clone .git nama_projek
+  git clone https://github.com/batavia0/sewa-mobil-laravel10.git nama_projek
 ```
 
 Masuk ke folder dengan perintah
@@ -30,6 +30,14 @@ Masuk ke folder dengan perintah
 
 ```bash
     php artisan storage:link
+```
+Run Development
+```bash
+    npm install && npm run dev
+```
+Run Application
+```bash
+     php artisan serve
 ```
 
 #### Login Admin
